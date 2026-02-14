@@ -47,8 +47,14 @@ All content, branding, and visual identity presented in this project are **100% 
 │   ├── header.png
 │   └── bg.jpg
 ├── 📁 css
+│   ├── about.css
+│   ├── contact.css
+│   ├── services.css
 │   └── style.css
 ├── 📁 js
 │   └── main.js
+├── about.html
+├── contact.html
 ├── index.html
-└── README.md
+├── README.md
+└── services.html
