@@ -53,9 +53,6 @@ Todo o conteúdo, branding e identidade visual apresentados neste projeto são *
 │   └── style.css
 ├── 📁 js
 │   └── main.js
-├── about.html
-├── contact.html
 ├── index.html
-├── README.md
-└── services.html
+└── README.md
 ```
